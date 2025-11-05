@@ -184,8 +184,8 @@ services:
 ### Project Setup and Dockerization
 1. Clone the Repository:
 
-	git clone https://github.com/yourusername/news-aggregator.git
-	cd news-aggregator
+	git clone https://github.com/RahulSingh2222/New-Alligorter.git
+cd New-Alligorter
 
 2. Install Docker:
 
