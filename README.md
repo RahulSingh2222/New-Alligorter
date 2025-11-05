@@ -1,4 +1,6 @@
-# News Aggregator Application - [![Netlify Status](https://api.netlify.com/api/v1/badges/992d1de3-06ae-4bdb-a95b-e7a5a8cc7d10/deploy-status)](https://app.netlify.com/sites/latestnewsaggregator/deploys)
+# 📰 New Alligorter - News Aggregator Web App  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-RahulSingh2222%2FNew--Alligorter-blue?logo=github)](https://github.com/RahulSingh2222/New-Alligorter)
+
 
 ### Overview
 
@@ -218,3 +220,8 @@ services:
 	Then stop it with:
 
 	`docker stop <container_id>`
+
+
+    ---
+👨‍💻 **Developed by:** Rahul Singh  
+📦 GitHub: [@RahulSingh2222](https://github.com/RahulSingh2222)
