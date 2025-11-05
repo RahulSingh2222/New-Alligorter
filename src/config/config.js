@@ -35,7 +35,11 @@ export const sources = [
   },
 ];
 
+<<<<<<< HEAD
 export const categories = ['general', 'business', 'entertainment', 'health', 'science', 'sports', 'technology'];
+=======
+export const categories = ['general', 'business', 'entertainment', 'health', 'science', 'sports', 'technology', 'jobs'];
+>>>>>>> 1b071b07 (Initial commit (own version))
 
 export const capitaLize = (string) => {
   return string.charAt(0).toUpperCase() + string.slice(1);

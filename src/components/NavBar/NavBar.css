@@ -85,6 +85,16 @@
   .search-btn:disabled {
     background-color: #005abb !important;
   }
+<<<<<<< HEAD
+=======
+  .date-display {
+    color: white;
+    margin-right: 15px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+  }
+>>>>>>> 1b071b07 (Initial commit (own version))
 
   .date-picker {
     display: flex;

@@ -165,9 +165,15 @@ function NavBar() {
               ))}
             </NavDropdown>
           </Nav>
+<<<<<<< HEAD
           <div className="date-picker">
             <DatePicker selected={startDate} onChange={handleDateChange} />
           </div>
+=======
+          <div className="date-display">
+      {moment(startDate).format("DD MMM YYYY")}
+    </div>
+>>>>>>> 1b071b07 (Initial commit (own version))
           <Form className="search-form" onSubmit={handleSubmit}>
             <FormControl
               type="text"
