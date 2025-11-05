@@ -1,4 +1,18 @@
 # 📰 New Alligorter - News Aggregator Web App  
+
+## 🌐 Live Demo
+
+👉 [View the live site here](https://new-alligorter.netlify.app)
+
+---
+
+## ⚙️ How to Run Locally
+
+```bash
+npm install
+npm start
+
+
 [![GitHub Repo](https://img.shields.io/badge/GitHub-RahulSingh2222%2FNew--Alligorter-blue?logo=github)](https://github.com/RahulSingh2222/New-Alligorter)
 
 
