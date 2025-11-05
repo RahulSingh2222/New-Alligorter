@@ -43,8 +43,8 @@ The application uses the following data sources:
 - React Bootstrap: For UI components and styling.
 - Docker: For containerizing the application.
 
-### Project Structure
-```
+### 📁 Project Structure
+```text
 news-aggregator/
 │
 ├── public/
@@ -53,73 +53,36 @@ news-aggregator/
 │
 ├── src/
 │   ├── components/
-│   │   ├── Error
+│   │   ├── Error/
 │   │   │   ├── Error.js
-│   │   ├── Loading
+│   │   ├── Loading/
 │   │   │   ├── index.js
 │   │   │   ├── Loading.js
-│   │   ├── NavBar
+│   │   ├── NavBar/
 │   │   │   ├── Loading.css
 │   │   │   ├── Loading.js
-│   │   ├── News
+│   │   ├── News/
 │   │   │   ├── index.js
 │   │   │   ├── News.css
 │   │   │   ├── News.js
-│   │   ├── NewsCard
-│   │   │   ├── Details
-│   │   │		│   ├── Details.css
-│   │   │		│   ├── Details.js
+│   │   ├── NewsCard/
+│   │   │   ├── Details/
+│   │   │   │   ├── Details.css
+│   │   │   │   ├── Details.js
 │   │   │   ├── NewsCard.css
 │   │   │   ├── NewsCard.js
-│   │   ├── NoDataFound
+│   │   ├── NoDataFound/
 │   │   │   ├── NoDataFound.css
 │   │   │   ├── NoDataFound.js
-│   │   ├── NoRouteFound
+│   │   ├── NoRouteFound/
 │   │   │   ├── NoRouteFound.js
-│   │   ├── ScrollToTop
+│   │   ├── ScrollToTop/
 │   │   │   ├── ScrollToTop.js
 │   │   ├── index.js
 │   │   └── ...
 │   │
 │   ├── config/
-│   │   ├── api.js
-│   │   ├── config.js
-│   │   └── ...
-│   │
-│   ├── images/
-│   │   ├── ArrowIcon.svg
-│   │   └── ...
-│   │
-│   ├── pages/
-│   │   ├── HomePage
-│   │   │   ├── HomePage.js
-│   │   ├── PersonalizedPage
-│   │   │   ├── PersonalizedPage.js
-│   │   └── ...
-│   │
-│   ├── router/
-│   │   ├── appRouter.js
-│   │   └── ...
-│   │
-│   ├── store/
-│   │   ├── slices/
-│   │   │   ├── articlesSlice.js
-│   │   └── store.js
-│   │
-│   ├── App.css
-│   ├── App.js
-│   ├── index.css
-│   ├── index.js
-│   └── ...
-│
-├── .dockerignore
-├── .env
-├── .gitignore
-├── docker-compose.yml
-├── Dockerfile
-├── package.json
-└── ...
-```
+
 
 ### Implementation Details
 1. Search and Filtering
